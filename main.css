@@ -1,0 +1,16 @@
+
+li{
+  margin: 0 2rem;
+}
+
+.nav-link{
+  font-family: "Signerica Fat", sans-serif;
+  font-size: 2rem;
+  padding: 1rem;
+}
+
+.nav-link:hover,
+.nav-link:focus{
+  background: linear-gradient(to top, #8bdbf4,#8bdbf4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
