@@ -5,7 +5,7 @@ body {
 	padding-top: 1px;
 }
 #pf-stage {
-	background: #444444;
+	background-image: url("woodbg-01.png");
 }
 .pf-left-side,
 .pf-right-side,
