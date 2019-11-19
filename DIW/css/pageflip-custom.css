@@ -25,7 +25,7 @@ body {
 	fill: #FFAA00;
 }
 #pageflip-controls {
-	background: rgba(68,68,68,0.35);
+	background: rgb(240, 248, 255);
 }
 .pf-hotspot {
 	position: absolute;
