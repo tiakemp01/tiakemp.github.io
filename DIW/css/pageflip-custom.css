@@ -1,12 +1,11 @@
 body {
 	margin: 0;
-	 background-image: url("wood.jpg");
 }
 .pageflip-container {
 	padding-top: 1px;
 }
 #pf-stage {
-	background: #000000;
+	background-image: url("wood.jpg");
 }
 .pf-left-side,
 .pf-right-side,
