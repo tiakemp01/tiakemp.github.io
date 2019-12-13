@@ -7,15 +7,7 @@ body {
 #pf-stage {
 	background: #444444;
 }
-.pf-left-side,
-.pf-right-side,
-.pf-thumbnail-spread,
-.pf-thumbnail-page {
-	background: #888;
-}
-#pageflip-controls,
-#pf-pagerin {
-	color: rgba(255,255,255,0.5);
+
 }
 .pf-control-bar-button g,
 .pf-control-bar-pager g {
