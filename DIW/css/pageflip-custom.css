@@ -5,7 +5,7 @@ body {
 	padding-top: 1px;
 }
 #pf-stage {
-	background: url(“./css/wood.jpg”);
+	background: #444444;
 }
 .pf-left-side,
 .pf-right-side,
@@ -25,7 +25,7 @@ body {
 	fill: #FFAA00;
 }
 #pageflip-controls {
-	background: rgb(240, 248, 255);
+	background: rgba(68,68,68,0.35);
 }
 .pf-hotspot {
 	position: absolute;
