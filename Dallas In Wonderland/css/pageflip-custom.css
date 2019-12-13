@@ -5,7 +5,7 @@ body {
 	padding-top: 1px;
 }
 #pf-stage {
-	background: #f39eff;
+	background: #ed93e8;
 }
 .pf-left-side,
 .pf-right-side,
@@ -22,7 +22,10 @@ body {
 	fill: rgba(255,255,255,0.5);
 }
 .pf-control-bar-button:not(.pf-disabled):hover g {
-	fill: rgb(255, 255, 255);
+	fill: rgb(213, 143, 219);
+}
+#pageflip-controls {
+	background: rgba(68,68,68,0.35);
 }
 .pf-hotspot {
 	position: absolute;
